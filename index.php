@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<title>Online Railway Reservation System</title>
+	<title>Kano Railway Reservation System</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="includes/css/main.css" />
@@ -19,7 +19,7 @@
 
 		<!-- Header -->
 		<header id="header" class="alt">
-			<h1><a href="index.php">Online Railway Reservation System</a></h1>
+			<h1><a href="index.php">Kano Railway Reservation System</a></h1>
 			<nav>
 				<a href="#menu">Menu</a>
 			</nav>
@@ -43,7 +43,7 @@
 		<section id="banner">
 			<div class="inner">
 				<div class="logo"><span class="icon solid fa-train"></span></div>
-				<h2>Online Railway Reservation System</h2>
+				<h2>Kano Railway Reservation System</h2>
 				<p>Best, Simple, and User Friendly Way To Reserve Train Tickets Effectively</a></p>
 			</div>
 		</section>
@@ -54,8 +54,8 @@
 
 				<ul class="contact">
 					<li class="icon solid fa-home">
-						Online Railway Reservation System<br />
-						PHP Project<br />
+						Kano Railway Reservation System<br />
+						<!-- <br />	 -->
 
 					</li>
 					<li class="icon solid fa-phone"><a href="tel:+234 806 394 2332">+234 806 394 2332</a></li>
@@ -65,8 +65,8 @@
 					<li class="icon brands fa-instagram"><a href="#">instagram.com</a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Online Railway Reservation System.</li>
-					<li>Developed By: Martin Mbithi Nzilani</li>
+					<li>&copy; Kano Railway Reservation System.</li>
+					<li>Ahmad Abdullahi</li>
 				</ul>
 			</div>
 		</section>

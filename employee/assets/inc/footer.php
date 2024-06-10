@@ -1,4 +1,4 @@
 <div class="splash-footer">
-    &copy; 2019 - <?php echo date ('Y');?>
-    Online Railway Reservation System | Developed By Martin Mbithi Nzilani
+    &copy;<?php echo date('Y'); ?>
+    Kano Railway Reservation System | Developed By Ahmad Abdullahi
 </div>
